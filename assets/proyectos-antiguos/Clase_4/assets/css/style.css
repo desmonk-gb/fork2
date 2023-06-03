@@ -1,0 +1,12 @@
+ body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.Padre {display: flex;}
+
+
+.Card {shadow p-3 mb-5 bg-body-tertiary rounded}
+
+.mt-0 {
+    margin-top: 3 !important;
+  }

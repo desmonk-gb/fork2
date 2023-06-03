@@ -1,0 +1,58 @@
+html {background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(173,173,226,1) 35%, rgba(0,212,255,1) 100%);}
+
+
+header {
+    height: 200px;
+    width: 600px;
+    text-shadow: 0 0 2px #fff;
+    background-size: contain, cover, stretch;
+    background-repeat: no-repeat;
+    background-image: url(SpaceLanding\asseets\imagenes_landing\space3_planeta.jpg);
+    padding-inline: 300px;
+
+
+    
+}
+section{
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.producto{
+     
+
+}
+
+.imagen{
+    max-width: 15%;
+    max-height:15%;
+}
+
+.imagen img{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 90px;
+    width: 100%;
+    float: left;
+
+}
+
+.texto{
+    font-size: 20px;
+    padding-left: 0%;
+    padding-top: 60px;
+    float: left;
+
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
